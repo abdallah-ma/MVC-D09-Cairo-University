@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|c:\\users\\abdallah mahmoud\\desktop\\mvc\\d09\\d09\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|solutionrelative:d09\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|c:\\users\\abdallah mahmoud\\desktop\\mvc\\d09\\d09\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|solutionrelative:d09\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|c:\\users\\abdallah mahmoud\\desktop\\mvc\\d09\\d09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|solutionrelative:d09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|c:\\users\\abdallah mahmoud\\desktop\\mvc\\d09\\d09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9B13BC-39FD-19C1-D464-AB496F0CB970}|D09\\D09.csproj|solutionrelative:d09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "D09\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\Properties\\launchSettings.json",
+              "RelativeToolTip": "D09\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T16:28:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "D09\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "D09\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T15:43:17.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\appsettings.json",
+              "RelativeDocumentMoniker": "D09\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\appsettings.json",
+              "RelativeToolTip": "D09\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T15:29:18.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\Program.cs",
+              "RelativeDocumentMoniker": "D09\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdallah Mahmoud\\Desktop\\MVC\\D09\\D09\\Program.cs",
+              "RelativeToolTip": "D09\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:04:39.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
